@@ -35,10 +35,11 @@ Syntran Labs is the AI engineering portfolio of **[Leonardo Sigales](https://www
 
 ## 🚀 Featured Projects
 
-> 🚧 First projects are being published — pinned repos always show the latest.
+> ✅ The first Learning Lab project is published — pinned repos always show the latest.
 
 | Project | Status | What It Demonstrates | Stack |
 |---|:---:|---|---|
+| **[learn-spec-driven-dev](https://github.com/Syntran-Labs/learn-spec-driven-dev)** | ✅ Published | Spec-Driven Development: executable specs, pytest, Red-Green-Refactor, dependency injection, responsible AI-assisted engineering | Python · pytest · OpenSpec |
 | **Permission-aware RAG service** | 🔨 In progress | Secure retrieval: access control at retrieval time, citations, traceability, evals | Python · FastAPI · vector DB · LLM APIs |
 | **LLM agent with tool use** | 📋 Planned | Agent orchestration: planning, function calling, guardrails, failure handling | Python · LLM APIs · structured outputs |
 | **Eval & observability harness** | 📋 Planned | LLMOps: automated evals, prompt regression testing, tracing, cost/latency monitoring | Python · pytest · tracing tools |
@@ -52,7 +53,7 @@ Syntran Labs is the AI engineering portfolio of **[Leonardo Sigales](https://www
 |---|---|
 | 🏗️ **[systems-lab](https://github.com/Syntran-Labs/systems-lab)** | Production-oriented AI systems: secure RAG, agents, guardrails, observability, operational readiness |
 | 📄 **[paper-lab](https://github.com/Syntran-Labs/paper-lab)** | AI/ML research papers turned into simplified implementations, experiments and engineering notes |
-| 🎓 **[learning-lab](https://github.com/Syntran-Labs/learning-lab)** | Spec-driven and AI-assisted development workflows, documented and reproducible |
+| 🎓 **[learning-lab](https://github.com/Syntran-Labs/learning-lab)** | Public catalog of self-contained educational engineering repositories — the front door for learning projects like [learn-spec-driven-dev](https://github.com/Syntran-Labs/learn-spec-driven-dev) |
 
 ---
 
