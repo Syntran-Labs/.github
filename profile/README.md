@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 Syntran Labs
+# Syntran Labs
 
 ![Focus](https://img.shields.io/badge/Focus-AI%20Engineering-purple?style=flat-square)
 ![RAG](https://img.shields.io/badge/Specialty-Secure%20RAG-blue?style=flat-square)
@@ -53,7 +53,7 @@ Syntran Labs is the AI engineering portfolio of **[Leonardo Sigales](https://www
 
 | Track | Purpose |
 |---|---|
-| **[systems-lab](https://github.com/Syntran-Labs/systems-lab)** | Production-oriented AI engineering systems: AI engineering operating systems, governed agents, repeatable skills, permission governance, observability, secure RAG, and operational readiness |
+| **[Systems Lab](https://github.com/Syntran-Labs/systems-lab)** | Production-oriented AI engineering systems: AI engineering operating systems, governed agents, repeatable skills, permission governance, observability, secure RAG, and operational readiness |
 | **[paper-lab](https://github.com/Syntran-Labs/paper-lab)** | AI/ML research papers turned into simplified implementations, experiments and engineering notes |
 | **[learning-lab](https://github.com/Syntran-Labs/learning-lab)** | Public catalog of self-contained educational engineering repositories — the front door for learning projects like [learn-spec-driven-dev](https://github.com/Syntran-Labs/learn-spec-driven-dev) |
 
