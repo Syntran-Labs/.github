@@ -35,11 +35,19 @@ Syntran Labs is the AI engineering portfolio of **[Leonardo Sigales](https://www
 
 ## 🚀 Featured Projects
 
-> ✅ The first Learning Lab project is published — browse the full catalog at **[learning-lab](https://github.com/Syntran-Labs/learning-lab)**, the public front door for educational projects.
+> ✅ Published work now spans Learning Lab and Paper Lab: educational engineering workflows plus research-to-code implementations.
+
+**Published**
 
 | Project | Status | What It Demonstrates | Stack |
 |---|:---:|---|---|
 | **[learn-spec-driven-dev](https://github.com/Syntran-Labs/learn-spec-driven-dev)** | ✅ Published | Spec-Driven Development, executable specs, pytest, Red-Green-Refactor, dependency injection, responsible AI-assisted engineering | Python · pytest · OpenSpec |
+| **[paper-rag-graph-4-datasets](https://github.com/Syntran-Labs/paper-rag-graph-4-datasets)** | ✅ Published | Research-to-code implementation of a Graph RAG pipeline for explainable dataset discovery — independent educational implementation; not the official paper code | Python · Jupyter · NumPy · pandas · matplotlib · pytest · GitHub Actions |
+
+**In Progress & Planned**
+
+| Project | Status | What It Demonstrates | Stack |
+|---|:---:|---|---|
 | **Permission-aware RAG service** | 🔨 In progress | Secure retrieval: access control at retrieval time, citations, traceability, evals | Python · FastAPI · vector DB · LLM APIs |
 | **LLM agent with tool use** | 📋 Planned | Agent orchestration: planning, function calling, guardrails, failure handling | Python · LLM APIs · structured outputs |
 | **Eval & observability harness** | 📋 Planned | LLMOps: automated evals, prompt regression testing, tracing, cost/latency monitoring | Python · pytest · tracing tools |
