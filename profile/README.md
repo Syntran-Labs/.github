@@ -41,6 +41,7 @@ Syntran Labs is the public AI engineering portfolio of **[Leonardo Sigales](http
 |---|:---:|---|---|---|
 | **[syntran-aieos](https://github.com/Syntran-Labs/syntran-aieos)** | Published | Systems Lab | AI Engineering Operating System for Claude Code: governed agents, repeatable skills, explicit permission gates, and a self-measuring telemetry layer. Windows-first. | Claude Code · Markdown · PowerShell · Python |
 | **[learn-spec-driven-dev](https://github.com/Syntran-Labs/learn-spec-driven-dev)** | Published | Learning Lab | Spec-Driven Development, executable specs, pytest, Red-Green-Refactor, dependency injection, and responsible AI-assisted engineering | Python · pytest · OpenSpec |
+| **[learn-runpod-llm-serving](https://github.com/Syntran-Labs/learn-runpod-llm-serving)** | Published | Learning Lab | Self-hosted LLM serving on a GPU cloud marketplace: one-command gated lifecycle (typed DEPLOY/TERMINATE), SSH-only security model with zero public ports, server-side benchmark suite with cost-per-token analysis, live-validated end to end | Python · llama.cpp · RunPod (GraphQL API) · GPT-OSS-20B · httpx |
 | **[paper-rag-graph-4-datasets](https://github.com/Syntran-Labs/paper-rag-graph-4-datasets)** | Published | Paper Lab | Research-to-code implementation of a Graph RAG pipeline for explainable dataset discovery | Python · Jupyter · NumPy · pandas · matplotlib · pytest · GitHub Actions |
 | **[paper-eca-llm-hypothesis-workflow](https://github.com/Syntran-Labs/paper-eca-llm-hypothesis-workflow)** | Early Incubation | Paper Lab | Uses SYNTRAN AIEOS to test whether LLM-assisted scientific workflows can produce falsifiable, reproducible, non-overclaiming hypotheses. ECA as a governed, reproducible testbed. | Python · SYNTRAN AIEOS · LLM APIs |
 | **Permission-aware RAG service** | In Progress | Systems Lab | Secure retrieval: access control at retrieval time, citations, traceability, evals | Python · FastAPI · vector DB · LLM APIs |
@@ -56,7 +57,7 @@ Syntran Labs is the public AI engineering portfolio of **[Leonardo Sigales](http
 |---|---|
 | **[systems-Lab](https://github.com/Syntran-Labs/systems-lab)** | Production-oriented AI engineering systems: AI engineering operating systems, governed agents, repeatable skills, permission governance, observability, secure RAG, and operational readiness |
 | **[paper-lab](https://github.com/Syntran-Labs/paper-lab)** | AI/ML research papers turned into simplified implementations, experiments, and engineering notes |
-| **[learning-lab](https://github.com/Syntran-Labs/learning-lab)** | Public catalog of self-contained educational engineering repositories — the front door for learning projects like [learn-spec-driven-dev](https://github.com/Syntran-Labs/learn-spec-driven-dev) |
+| **[learning-lab](https://github.com/Syntran-Labs/learning-lab)** | Public catalog of self-contained educational engineering repositories — the front door for learning projects like [learn-spec-driven-dev](https://github.com/Syntran-Labs/learn-spec-driven-dev) and [learn-runpod-llm-serving](https://github.com/Syntran-Labs/learn-runpod-llm-serving) |
 
 ---
 
